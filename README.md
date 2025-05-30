@@ -5,5 +5,4 @@
 💻 My core interests include Java, Data Structures & Algorithms (DSA), and Machine Learning.
 🚀 I'm always eager to learn new technologies and turn ideas into impactful projects.
 
-📫 Email: [gaminipraveena147@gmail.com](mailto:gaminipraveena147@gmail.com)
-
+📫 Email: gaminipraveena147@gmail.com
