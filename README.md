@@ -1,23 +1,7 @@
-## Hi there 👋
+👋 Hi, I'm Praveena Gamini
 
-<!--
-**GaminiPraveena/GaminiPraveena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I'm a B.Tech student passionate about building real-world tech solutions.
+🧠 I love observing everyday problems and thinking of creative ways to solve them.
+💻 My core interests include Java, Data Structures & Algorithms (DSA), and Machine Learning.
+🚀 I'm always eager to learn new technologies and turn ideas into impactful projects.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hi there, I'm Praveena!
-About Me
-Pursuing B.Tech in Computer Science & Engineering
-Passionate about Web Development, Data Analysis & GenAI
-Solving Data Structures & Algorithms (DSA) problems using Java
-Constantly learning and growing in the tech world
